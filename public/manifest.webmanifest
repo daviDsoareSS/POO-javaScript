@@ -3,10 +3,10 @@
     "name" : " mercadoSoares " ,
     "start_url" : "index.php" ,
     "display" : " standalone " ,
-    "theme_color" : "#1b1c1f" ,
-    "theme-color" : "#1b1c1f" ,
-    "background_color" : "#1b1c1f" ,
-    "background-color" : "#1b1c1f" ,
+    "theme_color" : "#5b90f3" ,
+    "theme-color" : "#5b90f3" ,
+    "background_color" : "#5b90f3" ,
+    "background-color" : "#5b90f3" ,
     "description" : "Sistema de mercado feito com POO Javascript" ,
     "icons" : [
       {

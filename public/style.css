@@ -114,14 +114,22 @@ section table td{
     text-align: center;
 }
 @media(max-width:1000px){
-
+    nav .nav-items h1{
+        
+        margin-top: 5vw;
+    }
     main{
         margin-left: 5vw !important;
         margin-right: 5vw !important;
     }
     main .container-main{
-        
         width: 100%;
+    }
+    main .container-main small{
+        margin-bottom: 4vw;
+    }
+    main .container-main input{
+        margin-bottom: 4vw;
     }
     section {
         margin-left: 5vw !important;
@@ -130,31 +138,6 @@ section table td{
     section table{
         width: 100%;
         border: none;
-    }
-    section table td{
-        border-bottom: 1px solid gray;
-        display: block;
-        text-align: right;
-    }
-    section table td:before{  
-        content: attr(data-title);
-        position: absolute;
-        left: 10px;
-        display: block;
-        font-weight: bolder;
-    }
-    section table{
-        border: none;
-    }
-    section table thead{
-        border: none;
-    }
-    section table tr{
-        border: 1px solid rgba(128, 128, 128, 0.259);
-        margin-bottom: 10px;
-        display: block;
-    }
-    section table tr, td {
-        display: block;
+       
     }
 }
