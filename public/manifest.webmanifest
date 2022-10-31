@@ -1,0 +1,19 @@
+{
+    "short_name" : " Mercado Soares POO Javascript " ,
+    "name" : " mercadoSoares " ,
+    "start_url" : "index.php" ,
+    "display" : " standalone " ,
+    "theme_color" : "#1b1c1f" ,
+    "theme-color" : "#1b1c1f" ,
+    "background_color" : "#1b1c1f" ,
+    "background-color" : "#1b1c1f" ,
+    "description" : "Sistema de mercado feito com POO Javascript" ,
+    "icons" : [
+      {
+        "src" : "img/logo.png" ,
+        "type" : "image/png" ,
+        "sizes" : "1080x1080"
+        
+      }
+    ]
+  }
